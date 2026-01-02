@@ -1,4 +1,4 @@
-## 🏗 Project Environment
+## Project Environment
 
 | 구분 | 내용 |
 |------|------|
